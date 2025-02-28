@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+◤𝗘𝗹𝗲𝗰𝘁𝗿𝗮𝗠𝗼𝘃𝗶𝗲𝘀+𝗕𝗼𝘁◥+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝘾𝙝𝙖𝙧𝙡𝙞𝙚+𝘽𝙤𝙩𝙨!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝙎𝙞𝙢𝙥𝙡𝙚+𝙖𝙣𝙙+𝙋𝙖𝙞𝙙+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+◤𝗘𝗹𝗲𝗰𝘁𝗿𝗮𝗠𝗼𝘃𝗶𝗲𝘀+𝗕𝗼𝘁◥+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝘾𝙝𝙖𝙧𝙡𝙞𝙚+𝘽𝙤𝙩𝙨!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝙎𝙞𝙢𝙥𝙡𝙚+𝙖𝙣𝙙+𝙋𝙖𝙞𝙙+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)
 <p align="center">
-  <img src="Logo/images (12).jpeg" alt="Charlie Bots">
+  <img src="https://envs.sh/i07.jpg" alt="Charlie Bots" width="300">
 </p>
 <h1 align="center">
   <b> ◤𝗘𝗹𝗲𝗰𝘁𝗿𝗮𝗠𝗼𝘃𝗶𝗲𝘀 𝗕𝗼𝘁◥</b>
