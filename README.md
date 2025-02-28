@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+◤𝗧𝗢𝗡𝗬+✧+𝗦𝗧𝗔𝗥𝗞◥+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗗𝗞+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+◤𝗧𝗢𝗡𝗬+✧+𝗦𝗧𝗔𝗥𝗞◥+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝘾𝙝𝙖𝙧𝙡𝙞𝙚+𝘽𝙤𝙩𝙨!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝙎𝙞𝙢𝙥𝙡𝙚+𝙖𝙣𝙙+𝙋𝙖𝙞𝙙+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
   <img src="Logo/images (12).jpeg" alt="DK Bot">
 </p>
